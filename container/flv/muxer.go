@@ -6,7 +6,7 @@ import (
 	"flag"
 	"os"
 	"log"
-	"github.com/gwuhaolin/livego/utils/uid"
+	"github.com/ErvisPeng/livego/utils/uid"
 	"github.com/gwuhaolin/livego/protocol/amf"
 	"github.com/gwuhaolin/livego/av"
 	"github.com/gwuhaolin/livego/utils/pio"

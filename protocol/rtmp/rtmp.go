@@ -8,7 +8,7 @@ import (
 	"github.com/gwuhaolin/livego/configure"
 	"github.com/gwuhaolin/livego/container/flv"
 	"github.com/gwuhaolin/livego/protocol/rtmp/core"
-	"github.com/gwuhaolin/livego/utils/uid"
+	"github.com/ErvisPeng/livego/utils/uid"
 	"log"
 	"net"
 	"net/url"
